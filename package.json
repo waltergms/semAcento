@@ -1,0 +1,23 @@
+{
+  "name": "semacento",
+  "version": "1.0.0",
+  "description": "Remove os acentos de uma string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltergms/semAcento.git"
+  },
+  "keywords": [
+    "remover",
+    "acento"
+  ],
+  "author": "Walter Gotschalg <walter.gms@gmail.com> (walter.gms@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltergms/semAcento/issues"
+  },
+  "homepage": "https://github.com/waltergms/semAcento#readme"
+}
