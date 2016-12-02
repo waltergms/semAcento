@@ -12,8 +12,8 @@ A small module to make things easier. Removes the accent from a letter or word a
   var semAcento = require('semacento')
 
   console.log(semAcento.normalize("afável, fácil, cônsul, desejável, ágil, incrível"));
-  // Output :
-  // afavel, facil, consul, desejavel, agil, incrivel
+  
+  Output: afavel, facil, consul, desejavel, agil, incrivel
   
 
 ## Tests
